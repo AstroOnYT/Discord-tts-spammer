@@ -12,8 +12,7 @@ A text-to-speech spammer | sends voice messages.
 3. run it | double click "run" file.
 
 # Contact Me
-
-﹒Discord: 7teen#1464
+﹒[Discord](https://discord.com/users/709827684888215582)
 ﹒[Discord Server](https://discord.gg/JH9h9uv)
 ﹒[Telegram](https://t.me/real7teen)
 ﹒[Steam](https://steamcommunity.com/id/seven777teen/)
