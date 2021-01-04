@@ -1,5 +1,5 @@
 @echo off
-title WACC TTS SPAMMER By 7teen
+title WACC TTS SPAMMER By thug angel
 :top
 cls
 node .
